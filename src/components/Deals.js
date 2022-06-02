@@ -32,7 +32,7 @@ const Collection_items=[
     {        imgLink:'https://mediacdn.grabone.co.nz/asset/cWllOdaxqn' ,    overlayText:'Ugg collection',          Title:'Ugg collection',         Name:'Multiple deals',         },
     {        imgLink:'https://mediacdn.grabone.co.nz/asset/DKqrqrT4pw' ,    overlayText:'Vivo Hair & Beauty',      Title:'Vivo Hair & Beauty',     Name:'Multiple deals',         },
     {        imgLink:'https://mediacdn.grabone.co.nz/asset/YaFw5GkDiY' ,    overlayText:'South Island Getaways',   Title:'South Island Getaways',  Name:'Multiple deals',         },
-    {        imgLink:'https://mediacdn.grabone.co.nz/asset/ZF4G1zPBzJ' ,    overlayText:'Bedroom Essentials',      itle:'Bedroom Essentials',      Name:'Multiple deals',         },
+    {        imgLink:'https://mediacdn.grabone.co.nz/asset/ZF4G1zPBzJ' ,    overlayText:'Bedroom Essentials',      Title:'Bedroom Essentials',      Name:'Multiple deals',         },
 ]
 
 
